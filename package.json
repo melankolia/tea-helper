@@ -19,6 +19,8 @@
   "dependencies": {
     "resso": "^0.17.0",
     "tea-helper-leap-year": "^1.0.1",
+    "tea-hoka-fn": "^1.1.0",
+    "tea-kodachi-fn": "^1.0.0",
     "tea-serv": "^1.0.0",
     "tea-zero-layer-2": "^1.0.0"
   }
